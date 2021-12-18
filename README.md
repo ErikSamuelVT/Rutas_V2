@@ -1,6 +1,6 @@
 # Consultor de rutas v2
 
-_Proyecto de la universidad, consisten un programa de escritorio que encuentra la ruta mas corta entre dos municipios_ 🚗
+_Proyecto de la universidad, consiste en un programa de escritorio que encuentra la ruta mas corta entre dos municipios_ 🚗
 
 ## Comenzando 🚀
 
